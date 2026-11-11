@@ -1,0 +1,1049 @@
+ISHPATA FILMS — COMPLETE MASTER PROJECT
+
+Official Android Application + Shared Backend + Future Website & PWA
+
+Brand: ISHPATA FILMS
+
+Tagline: KALASH TO THE WORLD
+
+Supporting Line: Stories Beyond Borders. Culture Beyond Generations.
+
+You are acting as a senior Android application architect, full-stack developer, UI/UX designer, database engineer, security engineer and digital media platform developer.
+
+Your task is to design and build a complete, professional, production-oriented digital platform for ISHPATA FILMS, founded by Lucky Rehmat Aspayi.
+
+This is not a generic video app, not a template website and not a simple portfolio.
+
+ISHPATA FILMS is a creative film production and cultural storytelling platform representing Kalash Valley and bringing authentic Kalash stories, films, music, artists, traditions, photography and creative talent to a global audience.
+
+Build the actual application with functional backend integration, secure authentication, persistent data, professional design and a scalable architecture.
+
+Do not create a fake demonstration project.
+
+---
+
+PART 1 — PROJECT IDENTITY AND PURPOSE
+
+Official Brand Name: ISHPATA FILMS
+
+Tagline: KALASH TO THE WORLD
+
+Supporting Line: Stories Beyond Borders. Culture Beyond Generations.
+
+Founder / Creative Director: Lucky Rehmat Aspayi
+
+Mission:
+
+To document, preserve, promote and share authentic Kalash culture, original films, music, stories, traditions, artists, young creators and creative productions with audiences around the world.
+
+The platform must represent Kalash culture respectfully and accurately.
+
+The platform should feel like a professional independent international film studio, cultural media platform and creative community.
+
+Do not present it as a generic social-media clone.
+
+Do not invent awards, achievements, followers, audience statistics, cultural facts or production credits.
+
+---
+
+PART 2 — PLATFORM ARCHITECTURE
+
+Build the project with three connected destinations:
+
+1. Native Android application.
+2. Official responsive website.
+3. Installable Progressive Web App (PWA).
+
+Development priority: Build the Android application and its shared backend first. Design the backend APIs so the website and PWA can use the same data, accounts and services later.
+
+Preferred Android technology:
+
+- Kotlin
+- Jetpack Compose
+- Material 3
+- Android Studio compatible project
+- Modern Android architecture
+- Responsive layouts
+
+Backend:
+
+- Python Flask API preferred, or a clearly documented production-ready alternative if the development environment cannot support Flask.
+- SQLite for an early prototype only.
+- PostgreSQL for production deployment.
+- Secure REST API.
+- Persistent database.
+- Secure media storage outside the database.
+- HTTPS communication.
+
+The Android app, website and PWA must use the same backend and database. Do not build three disconnected systems.
+
+Provide a clear project structure and documentation.
+
+---
+
+PART 3 — BRAND DESIGN AND VISUAL IDENTITY
+
+Create a premium cinematic identity.
+
+Visual direction:
+
+- Deep navy blue.
+- Black and charcoal backgrounds.
+- White and silver typography.
+- Subtle red and blue accents inspired by the official IF logo.
+- Cinematic photography.
+- Minimal and professional interface.
+- Elegant transitions.
+- Premium film-industry presentation.
+- Clean typography.
+- Proper spacing and visual hierarchy.
+
+Avoid:
+
+- Excessive gradients.
+- Unnecessary glowing effects.
+- Cartoonish UI.
+- Random stock photographs.
+- Overcrowded layouts.
+- Generic business templates.
+- Fake content.
+- Excessive animations.
+
+The app should look like a serious independent international film studio.
+
+Official IF Logo
+
+Use the supplied original IF emblem.
+
+The reference design is:
+
+- Circular dark navy and red background.
+- White IF letters.
+- Red dot above the I.
+- Subtle blue detail.
+
+Use the logo without distorting its original proportions.
+
+Required placements:
+
+1. App launch screen.
+2. App header.
+3. Navigation drawer or brand area.
+4. About section.
+5. Footer and website branding.
+6. Creator Studio.
+7. CEO Dashboard.
+8. Android launcher icon.
+9. PWA icons.
+10. Website favicon.
+
+Use the supplied actual logo asset. Do not invent a different logo.
+
+If the uploaded image is only a screenshot, prepare a clean crop or request the original transparent PNG/SVG. Do not pretend that a screenshot is a high-quality original logo.
+
+---
+
+PART 4 — AUTHENTIC KALASH CULTURE AND IMAGE ASSETS
+
+This is one of the most important parts of the project.
+
+Use the real photographs and videos supplied by the project owner.
+
+The uploaded visual assets must be treated as original reference material, not as permission to invent cultural details.
+
+Image Asset Recognition
+
+Inspect every uploaded photograph and video.
+
+Classify each asset by its actual visible content.
+
+Create a private asset inventory containing:
+
+- Asset filename.
+- Visual description.
+- Intended page or section.
+- Image dimensions.
+- Usage status.
+- Whether it is an original image or screenshot.
+
+Do not assume all images are interchangeable.
+
+Required Main Image Placements
+
+A. Kalash Women Wool-Spinning Photograph
+
+Use the supplied photograph showing Kalash women traditionally spinning wool.
+
+Primary placement:
+
+- Homepage hero background.
+
+Additional suitable placement:
+
+- Kalash heritage.
+- Traditional crafts.
+- Cultural preservation.
+
+Replace the existing unrelated full-body background photograph with this supplied image.
+
+Preserve the people, clothing and cultural details. Do not distort faces or stretch the photograph.
+
+B. Kalash Youth Traditional Clothing Photograph
+
+Use the supplied photograph of Kalash youth wearing traditional clothing.
+
+Primary placement:
+
+- Kalash Culture page.
+- Community section.
+- Gallery.
+
+It must remain a separate image from the homepage hero.
+
+Do not use it as a replacement for the wool-spinning photograph.
+
+C. Official IF Logo
+
+Use the supplied IF logo in all designated brand locations.
+
+D. All Other Supplied Cultural Photos and Videos
+
+Use every additional relevant image or video supplied with the project according to its actual subject.
+
+Examples of possible categories, only when supported by supplied assets:
+
+- Kalash Valley landscapes.
+- Traditional clothing.
+- Traditional crafts.
+- Music and instruments.
+- Cultural festivals.
+- Traditional houses.
+- Community and youth.
+- Agriculture and village life.
+- Local artists.
+- Original film production.
+- Behind-the-scenes filmmaking.
+
+Do not assume a photograph represents a particular festival, ritual or tradition unless that is confirmed.
+
+Do not invent names, meanings, dates or descriptions of cultural practices.
+
+If an image's context is uncertain, use a neutral description or leave its caption pending verification.
+
+Asset Storage
+
+Organize images in a structured project directory, for example:
+
+public/images/brand/
+public/images/hero/
+public/images/culture/
+public/images/community/
+public/images/gallery/
+public/images/films/
+public/images/artists/
+
+Store videos in appropriate media storage.
+
+Never use temporary ChatGPT attachment paths as permanent website or application asset URLs.
+
+If an original asset is missing, display a clean placeholder or an empty state and report the missing filename.
+
+Do not silently substitute an AI-generated or unrelated image.
+
+Obtain appropriate permission before publishing photographs or videos showing identifiable people, particularly minors.
+
+---
+
+PART 5 — ANDROID APP OPENING EXPERIENCE
+
+Create a complete professional app opening experience.
+
+1. Splash Screen
+
+When users open the app:
+
+- Show the official IF logo.
+- Show ISHPATA FILMS.
+- Show KALASH TO THE WORLD.
+- Use a subtle cinematic animation.
+- Keep the splash screen short.
+- Then open the main Home screen.
+
+Do not force users to log in just to browse public content.
+
+2. Main Navigation
+
+Create a clean bottom navigation system with:
+
+- Home
+- Films
+- Culture
+- Creators
+- More
+
+The More section should contain:
+
+- Music & Artists.
+- News & Updates.
+- Gallery.
+- Support Local Talent.
+- About Ishpata Films.
+- Contact.
+- Settings.
+
+Keep navigation easy to understand.
+
+3. Homepage
+
+The homepage should contain:
+
+1. Cinematic hero area using the supplied Kalash women wool-spinning photograph.
+2. ISHPATA FILMS branding.
+3. KALASH TO THE WORLD.
+4. A short introduction to the platform.
+5. Featured Films.
+6. Latest Videos.
+7. Kalash Culture.
+8. Music & Artists.
+9. Meet Our Creators.
+10. Latest News & Updates.
+11. Support Local Talent.
+12. About Ishpata Films.
+
+The homepage should be visually strong but not overcrowded.
+
+All sections must retrieve actual approved content from the backend.
+
+If content is not available, show:
+"New stories are coming soon."
+
+Do not display fake statistics or fake video cards.
+
+---
+
+PART 6 — FILMS AND VIDEO DISCOVERY
+
+Create a professional film library.
+
+Categories may include:
+
+- Short Films.
+- Drama.
+- Emotional Stories.
+- Cultural Films.
+- Documentary.
+- Fantasy & Adventure.
+- Behind the Scenes.
+
+Only authorized and approved productions should be publicly displayed.
+
+Each film card can contain:
+
+- Official poster or thumbnail.
+- Film title.
+- Short description.
+- Release date, when available.
+- Director and production credits, when verified.
+- Category.
+- Watch on YouTube button, when applicable.
+
+Do not invent film descriptions, cast names, awards or release dates.
+
+The owner must be able to feature, publish, unpublish or edit film entries.
+
+---
+
+PART 7 — COMPLETE MULTI-ACCOUNT YOUTUBE MANAGER
+
+This is a core requirement.
+
+Create a professional YouTube Account Manager inside the CEO Dashboard.
+
+The owner may have multiple Google accounts associated with different YouTube channels.
+
+The system must allow secure connection and switching between them.
+
+Account Connection
+
+Add:
+
+- Connect YouTube Account.
+- Add Another Google Account.
+- Switch Account.
+- View Connected Channels.
+- Refresh Videos.
+- Disconnect Account.
+
+Use official Google OAuth 2.0.
+
+The owner selects a Google account through Google's official authorization screen.
+
+Never ask users to type their Google passwords into the Ishpata Films application.
+
+Never hardcode Google credentials or OAuth secrets into frontend code.
+
+Store tokens securely on the backend.
+
+Example Account List
+
+- Ishpata Films — Account 1.
+- Ishpata Films — Account 2.
+- Other authorized channel accounts.
+
+Allow the CEO to assign an understandable display label to each connection.
+
+When the owner switches channels, display the selected channel's actual videos.
+
+Never mix channel videos unless the owner explicitly selects an All Channels view.
+
+YouTube Video Retrieval
+
+Use YouTube Data API v3.
+
+Retrieve available public channel videos and their actual metadata.
+
+Show:
+
+- Actual thumbnail.
+- Actual title.
+- Channel name.
+- Publication date, when available.
+- Public view count, when available.
+- Actual YouTube video ID.
+- Watch on YouTube button.
+
+Add:
+
+- Search.
+- Channel filter.
+- Latest-first sorting.
+- Pagination.
+- Refresh.
+
+Do not invent videos, thumbnails or views.
+
+Critical Playback Requirement
+
+Videos must NOT play inside the Ishpata Films app or website.
+
+When a visitor taps a thumbnail:
+
+- Open the original video on YouTube.
+- Use the actual video ID.
+- Use the official YouTube video URL.
+- Open externally in the YouTube app or browser where supported.
+
+Do not use an embedded player.
+
+The Ishpata Films platform is a video discovery and film-promotion platform that directs audiences to original YouTube content.
+
+Public Visibility
+
+The CEO controls:
+
+- Which channels are visible publicly.
+- Which videos are featured.
+- Which videos are hidden.
+- Which channel is selected for homepage display.
+
+Never expose Gmail addresses, OAuth tokens or private account details to public visitors.
+
+Handle expired tokens, revoked authorization and API quota limits correctly.
+
+If credentials are not configured, show a clear setup message instead of fake connected accounts.
+
+---
+
+PART 8 — KALASH CULTURE SECTION
+
+Create a dedicated cultural experience.
+
+Page title:
+KALASH CULTURE
+
+Purpose:
+Present the living culture, stories, traditions and community of Kalash respectfully.
+
+Possible sections:
+
+- Cultural Heritage.
+- Traditional Clothing.
+- Traditional Crafts.
+- Music & Artists.
+- Festivals & Community Life.
+- Language & Oral Stories.
+- Village Life.
+- Youth & Future Generations.
+- Cultural Photography.
+- Responsible Cultural Documentation.
+
+Use the actual supplied photographs in relevant sections.
+
+The Kalash youth photograph should be prominent in the Community/Gallery area.
+
+The wool-spinning photograph should be prominent in traditional crafts and heritage content.
+
+Never generate false cultural explanations.
+
+Use verified information supplied by the owner or reliable cultural sources.
+
+Do not treat all cultural practices as identical across every Kalash village or community.
+
+Respect privacy, community permission and cultural sensitivities.
+
+The goal is authentic representation, not exotic stereotypes.
+
+---
+
+PART 9 — MUSIC AND ARTISTS
+
+Create a dedicated Music & Artists section.
+
+Allow the CEO or authorized creators to submit:
+
+- Artist profiles.
+- Music video links.
+- Original music projects.
+- Interviews.
+- Behind-the-scenes material.
+- Cultural music documentation.
+
+Show only approved submissions.
+
+Music and video links should open their original platforms externally when applicable.
+
+Do not claim ownership of third-party content.
+
+---
+
+PART 10 — NEWS AND UPDATES
+
+Create a professional News & Updates section.
+
+Support:
+
+- Ishpata Films announcements.
+- New film releases.
+- Production updates.
+- Kalash cultural stories.
+- Local creative talent news.
+- Events and community updates.
+
+Allow authorized creators to submit articles and updates.
+
+The CEO must approve public publication.
+
+Provide:
+
+- Title.
+- Cover image.
+- Article content.
+- Author credit.
+- Publication date.
+- Category.
+
+Never invent news or claim that an event occurred without verified information.
+
+---
+
+PART 11 — CREATOR COMMUNITY AND CREATOR STUDIO
+
+Create a secure Creator Studio.
+
+Public visitors can browse published creator profiles without login.
+
+Creators must authenticate to submit content.
+
+Creator Registration
+
+Allow a person to request a creator account.
+
+New registrations must remain pending until approved by the CEO.
+
+Do not automatically give creator permissions to every registered user.
+
+Creator Dashboard
+
+After login, show:
+
+- My Profile.
+- My Portfolio.
+- Submit Video.
+- Submit YouTube Link.
+- Upload Photos.
+- Submit Article.
+- Submit News.
+- My Submissions.
+- Submission Status.
+- Account Settings.
+
+Creators can view their own submissions and statuses.
+
+Possible statuses:
+
+- Pending.
+- Under Review.
+- Changes Requested.
+- Approved.
+- Rejected.
+- Published.
+
+Creators must not be able to approve their own submissions.
+
+Individual Permissions
+
+The CEO can separately grant:
+
+- Video submission.
+- Photo upload.
+- Article submission.
+- News submission.
+- YouTube link submission.
+- Publishing permission, only when specifically authorized.
+
+Do not give all creators identical permissions automatically.
+
+---
+
+PART 12 — CEO / SUPER ADMIN DASHBOARD
+
+Create a secure and private administration system.
+
+The designated CEO email is:
+
+luckyrehmat07@gmail.com
+
+This email is the intended identity for the main administrator.
+
+Important:
+Do not grant administrative access based only on a typed email address.
+
+Use verified authentication and server-side role assignment.
+
+Do not invent or hardcode a password.
+
+The account must be securely initialized with a unique private password and recovery process.
+
+CEO Dashboard Sections
+
+1. Overview.
+2. Creator Management.
+3. Creator Permissions.
+4. Content Approvals.
+5. Films Management.
+6. Videos Management.
+7. YouTube Account Manager.
+8. Channel Visibility.
+9. Culture Content.
+10. Music & Artists.
+11. News & Articles.
+12. Gallery Management.
+13. Featured Content.
+14. Donation Management.
+15. Website Management.
+16. Analytics.
+17. Security & Account Settings.
+
+Admin Controls
+
+The CEO can:
+
+- Approve creators.
+- Reject creator requests.
+- Suspend or revoke creator access.
+- Assign permissions.
+- Approve or reject submissions.
+- Request changes.
+- Publish or unpublish content.
+- Feature content.
+- Manage public pages.
+- Connect or disconnect YouTube accounts.
+- Select public YouTube channels.
+- Manage cultural images and galleries.
+- Manage news and announcements.
+
+All admin operations must be protected by server-side authorization.
+
+Record important administrative actions in an audit log.
+
+---
+
+PART 13 — SUPPORT LOCAL TALENT / DONATIONS
+
+Create a professional section:
+
+SUPPORT LOCAL TALENT
+
+Supporting message:
+SUPPORT THE NEXT GENERATION.
+
+Purpose:
+Help local creative talent, young filmmakers and approved community projects through transparent support.
+
+Features:
+
+- Approved talent profiles.
+- Verified campaigns.
+- Campaign descriptions.
+- Fundraising goals, only when supplied and approved.
+- Actual donation progress, when payment integration is active.
+- Transparent campaign updates.
+
+Do not invent recipients, donation amounts, payment confirmations or campaigns.
+
+Use a payment provider that officially supports the relevant country and payment method.
+
+Never store bank card details directly.
+
+Until payment integration is verified, show:
+"Donations opening soon."
+
+Obtain appropriate consent and guardian approval for minors featured in campaigns.
+
+Do not expose private personal or financial information.
+
+---
+
+PART 14 — ANALYTICS AND REPORTING
+
+Create a CEO-only analytics dashboard.
+
+Website/app analytics may include:
+
+- Visitors.
+- Unique visitors, where reliably measurable.
+- Page views.
+- Film page views.
+- Thumbnail clicks.
+- Outbound YouTube clicks.
+- Article views.
+- Popular content.
+- Daily, weekly and monthly trends.
+
+Keep separate reporting for:
+
+- Website/app activity.
+- Public YouTube statistics.
+- Private YouTube Analytics, only when properly authorized.
+
+Do not combine statistics from different platforms without clear labels.
+
+Do not fabricate views, followers, visitors or audience data.
+
+Respect privacy and collect only necessary analytics data.
+
+---
+
+PART 15 — CONTACT AND ABOUT
+
+About page:
+
+Explain the verified identity, mission and work of Ishpata Films.
+
+Use:
+
+- ISHPATA FILMS.
+- KALASH TO THE WORLD.
+- Stories Beyond Borders. Culture Beyond Generations.
+
+Show the founder credit:
+Lucky Rehmat Aspayi.
+
+Do not invent biographies, company registrations, awards or achievements.
+
+Contact page should provide only contact details approved by the owner.
+
+---
+
+PART 16 — SECURITY AND DATA PROTECTION
+
+Security is mandatory.
+
+Requirements:
+
+- Secure authentication.
+- Server-side role-based permissions.
+- Strong password hashing.
+- Secure session handling.
+- Secure password recovery.
+- Input validation.
+- Upload file type and size validation.
+- Protection against unauthorized API access.
+- Secure OAuth token storage.
+- HTTPS.
+- Database backup strategy.
+- Error logging.
+- Rate limiting for sensitive endpoints.
+- Protection against common web and API vulnerabilities.
+
+Never:
+
+- Hardcode passwords.
+- Put API secrets in frontend code.
+- Expose private Gmail addresses.
+- Expose OAuth tokens.
+- Allow unauthorized creator publishing.
+- Trust frontend-only admin checks.
+- Fake successful payments.
+- Store sensitive payment credentials.
+
+Provide a privacy policy and terms of use before public launch.
+
+---
+
+PART 17 — PWA AND WEBSITE COMPATIBILITY
+
+Prepare the shared backend so the same platform can support an official website and PWA.
+
+PWA requirements:
+
+- Web app manifest.
+- Official IF icons.
+- Standalone display mode.
+- HTTPS.
+- Safe service worker.
+- Responsive layouts.
+- Install experience.
+- Offline fallback page.
+
+The website should include:
+
+- Home.
+- Films.
+- Videos.
+- Creators.
+- Kalash Culture.
+- Music & Artists.
+- News & Updates.
+- Support Local Talent.
+- About.
+- Contact.
+
+Future SEO requirements:
+
+- Search-friendly page titles.
+- Meta descriptions.
+- Sitemap.
+- Robots.txt.
+- Structured metadata where appropriate.
+- Open Graph images.
+- Google Search Console compatibility.
+
+The public website must display only approved published content.
+
+Do not expose private dashboards to search engines.
+
+---
+
+PART 18 — APP STORE AND ANDROID RELEASE PREPARATION
+
+Prepare a release-ready Android project.
+
+Requirements:
+
+- Correct application ID, configurable by the owner.
+- Official app name: ISHPATA FILMS.
+- Official launcher icon.
+- Splash screen.
+- App versioning.
+- Signed release build instructions.
+- Android App Bundle (.aab) generation.
+- Privacy policy URL configuration.
+- Data Safety information preparation.
+- Play Store screenshots.
+- Feature graphic.
+- App description.
+- Testing instructions.
+
+Do not claim the app has been approved by Google Play before actual approval.
+
+Prepare the project for Google Play Console submission.
+
+---
+
+PART 19 — CONTENT AND EMPTY-STATE RULES
+
+Never use:
+
+- Fake films.
+- Fake creators.
+- Fake YouTube accounts.
+- Fake statistics.
+- Fake donations.
+- Fake cultural descriptions.
+- Fake awards.
+- Random unrelated images.
+
+If a category has no approved content, display a professional empty state.
+
+Examples:
+
+- "New stories are coming soon."
+- "No approved videos available yet."
+- "This section is being prepared."
+- "More cultural stories will be added soon."
+
+Do not show development data to public users.
+
+---
+
+PART 20 — DEVELOPMENT AND TESTING PROCESS
+
+Build this project carefully in stages.
+
+Do not generate a huge disconnected collection of screens that only look functional.
+
+The application must actually connect to its backend.
+
+Stage 1: Project foundation
+
+- Create the Android project.
+- Create the backend.
+- Configure the database.
+- Establish secure API communication.
+- Implement the brand design system.
+
+Stage 2: Public application
+
+- Splash screen.
+- Homepage.
+- Films.
+- Videos.
+- Culture.
+- Gallery.
+- Music.
+- News.
+- About.
+- Contact.
+
+Stage 3: Authentication and Creator Studio
+
+- Secure registration.
+- Login.
+- Pending approval.
+- Creator profiles.
+- Submission workflow.
+- Permission controls.
+
+Stage 4: CEO Dashboard
+
+- Secure administrator account.
+- Creator management.
+- Content approvals.
+- Publishing controls.
+- Media management.
+
+Stage 5: YouTube integration
+
+- Google OAuth.
+- Multiple account connections.
+- Channel switching.
+- Video retrieval.
+- Thumbnail display.
+- External YouTube opening.
+- Token refresh and disconnect handling.
+
+Stage 6: Donations and Analytics
+
+- Approved campaigns.
+- Verified payment integration.
+- Activity analytics.
+- Reporting.
+
+Stage 7: PWA and Website
+
+- Shared backend integration.
+- Responsive public pages.
+- PWA installation.
+- SEO preparation.
+
+Stage 8: Android release
+
+- Test on Android devices.
+- Fix issues.
+- Build signed AAB.
+- Prepare Play Store listing.
+
+---
+
+PART 21 — FINAL QUALITY REQUIREMENTS
+
+Before calling the project complete, verify:
+
+1. The app opens correctly.
+2. The IF logo appears correctly.
+3. The supplied Kalash women photograph is the homepage hero image.
+4. The supplied Kalash youth photograph appears in its intended culture/community location.
+5. Other supplied images are placed according to their real content.
+6. Navigation works.
+7. Public pages do not require login.
+8. Creator registration works.
+9. Creator approval works.
+10. Permissions are enforced by the backend.
+11. CEO authentication is secure.
+12. Multiple YouTube accounts can be connected.
+13. Channel switching works.
+14. Actual video thumbnails load.
+15. Clicking a video opens the original YouTube video externally.
+16. No in-app YouTube playback is used.
+17. Content is saved persistently.
+18. Uploads are validated.
+19. Public and private information are separated.
+20. Empty states work.
+21. The application works on different Android screen sizes.
+22. The backend can serve both website and mobile app.
+23. PWA requirements are met.
+24. Release build instructions are documented.
+
+If any feature is not actually functional, clearly label it as incomplete.
+
+Do not report a successful test unless the test has been performed.
+
+---
+
+PART 22 — WHAT YOU MUST DELIVER
+
+Deliver the following:
+
+1. Complete Android application source code.
+2. Complete backend source code.
+3. Database schema and migrations.
+4. API documentation.
+5. Secure authentication and role system.
+6. YouTube integration implementation.
+7. Image and media asset directory.
+8. PWA-compatible frontend.
+9. Website-compatible architecture.
+10. Android build instructions.
+11. Release AAB generation instructions.
+12. Environment variable example file without real secrets.
+13. Deployment guide.
+14. Testing report.
+15. List of all missing external credentials and configuration steps.
+
+Do not put real passwords, OAuth secrets or private API keys in the source code.
+
+Do not stop after creating a visual prototype.
+
+If the environment cannot complete the entire project in one operation, first create the working project foundation, then continue implementing the remaining stages in the same project. Maintain a clear progress report and do not silently omit features.
+
+FINAL CREATIVE DIRECTION
+
+ISHPATA FILMS should feel like a professional independent international film studio representing the real people, stories, creativity and cultural heritage of Kalash.
+
+The app should be cinematic, authentic, modern, trustworthy, easy to use and globally accessible.
+
+The main purpose is not merely to display videos.
+
+The purpose is to connect:
+
+- Kalash culture.
+- Original filmmaking.
+- Local creative talent.
+- Music and artists.
+- Youth and future generations.
+- Global audiences.
+
+ISHPATA FILMS — KALASH TO THE WORLD.
+
+Build it with professional quality, authentic cultural representation and real working functionality.

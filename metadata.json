@@ -1,0 +1,6 @@
+{
+  "name": "ISHPATA FILMS",
+  "description": "Official cultural storytelling and cinema platform for Ishpata Films - Kalash to the World.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ISHPATA FILMS — KALASH TO THE WORLD",
+  "short_name": "ISHPATA FILMS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070D1E",
+  "theme_color": "#070D1E",
+  "description": "Official cinema production and authentic cultural storytelling platform representing Kalash Valley to a global audience.",
+  "icons": [
+    {
+      "src": "/images/brand/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

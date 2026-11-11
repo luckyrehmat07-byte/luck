@@ -1,0 +1,50 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="128dp"
+    android:height="128dp"
+    android:viewportWidth="128"
+    android:viewportHeight="128">
+
+    <!-- Circular Dark Navy Background -->
+    <path
+        android:fillColor="#0A1128"
+        android:pathData="M64,64m-60,0a60,60 0,1 1,120 0a60,60 0,1 1,-120 0" />
+
+    <!-- Red Accent Arc / Badge Segment (Subtle Red curve on outer perimeter) -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M64,4 A60,60 0 0,1 124,64 L114,64 A50,50 0 0,0 64,14 Z" />
+
+    <!-- Subtle Blue Accent Arc (representing Kalash rivers and mountain sky) -->
+    <path
+        android:fillColor="#1E88E5"
+        android:pathData="M4,64 A60,60 0 0,1 36,12 L41,21 A50,50 0 0,0 14,64 Z" />
+
+    <!-- Inner Dark Circle for Emblem Depth -->
+    <path
+        android:fillColor="#0E1738"
+        android:pathData="M64,64m-48,0a48,48 0,1 1,96 0a48,48 0,1 1,-96 0" />
+
+    <!-- Letter 'I' (White, Bold, Elegant Sans) -->
+    <!-- Stem of I: x=36 to x=46, y=42 to y=94 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M37,42 L47,42 L47,94 L37,94 Z" />
+
+    <!-- Distinctive Red Dot above the I -->
+    <path
+        android:fillColor="#E53935"
+        android:pathData="M42,32m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+
+    <!-- Letter 'F' (White, Bold, Interlocking & Cinematic) -->
+    <!-- Vertical stem: x=58 to x=68, y=34 to y=94 -->
+    <!-- Top bar: x=58 to x=94, y=34 to y=44 -->
+    <!-- Middle bar: x=58 to x=86, y=56 to y=66 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M58,34 L95,34 L95,44 L68,44 L68,56 L88,56 L88,66 L68,66 L68,94 L58,94 Z" />
+
+    <!-- Subtle Cyan/Blue Precision Accent Dot -->
+    <path
+        android:fillColor="#00BCD4"
+        android:pathData="M92,72m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+</vector>
